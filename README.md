@@ -16,9 +16,7 @@
 
 ## Captura de Pantalla
 
-<!--
-![Screenshot](docs/screenshot.png)
--->
+<!--![Screenshot](docs/screenshot.png)-->
 
 > *Añade una captura de pantalla o GIF animado del gameplay en `docs/screenshot.png`.*
 
@@ -309,12 +307,31 @@ Consulta [`tests/tests.md`](tests/tests.md) para más detalles.
 
 ---
 
+## Contribuir
+
+Las contribuciones son bienvenidas. Para mantener la calidad del proyecto, sigue estos pasos:
+
+1. Haz un **fork** del repositorio.
+2. Crea una rama para tu feature (`git checkout -b feature/nueva-funcionalidad`).
+3. Haz commit de tus cambios (`git commit -am 'Añade nueva funcionalidad'`).
+4. Pushea a tu fork (`git push origin feature/nueva-funcionalidad`).
+5. Abre un **Pull Request** desde GitHub.
+
+### Guía de Estilo
+
+- Sigue **PEP 8** para el código Python.
+- Mantén la cobertura de tests por encima del 80 %.
+- Documenta clases y métodos públicos con docstrings.
+- Usa nombres descriptivos en español para la lógica del juego y en inglés para utilidades genéricas.
+
+---
+
 ## Licencia
 
 Este proyecto se distribuye bajo la **Licencia MIT**. Consulta el archivo [`LICENSE`](LICENSE) para los términos completos.
 
 *El proyecto Odisea En El Espacio by AXL es un trabajo académico de Programación Orientada a Objetos. Se permite su uso, modificación y distribución siempre que se mantenga el aviso de copyright original.*
----
+--- 
 
 <div align="center">
 
